@@ -28,7 +28,7 @@ To identify trends in historical bike trip and understand how annual members as 
 
 # Step 2: Preparing And Collecting Of Data
 I used Cyclistic's historical data to analyze and identify trends.The data has been made available by Motivate International Inc. under this
-[License](https://divvybikes.com/data-license-agreement). The datasets are available[here](https://divvy-tripdata.s3.amazonaws.com/index.html). 
+[License](https://divvybikes.com/data-license-agreement). The datasets are available [here](https://divvy-tripdata.s3.amazonaws.com/index.html). 
 
 # Tasks
 1. Identify how the data is organized?
