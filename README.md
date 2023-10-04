@@ -17,3 +17,11 @@ that, however, the marketing analyst team needs to better understand how annual 
 riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in
 analyzing the Cyclistic historical bike trip data to identify trends.
 
+# Identifying The Business Task
+To identify trends in historical bike trip and understand how annual members as well as casual riders use cyclistic.
+
+# Stakeholders
+- Lily Moreno: The director of marketing
+- Cyclistic executive team
+
+
