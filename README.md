@@ -1,5 +1,5 @@
 # How does a bike-share navigate speedy success?
-_____________________________________________________________________________________
+
 # Background
 Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart
 by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities
@@ -17,6 +17,8 @@ that, however, the marketing analyst team needs to better understand how annual 
 riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in
 analyzing the Cyclistic historical bike trip data to identify trends.
 
+# Step 1: Gathering Information For The Task
+
 # Identifying The Business Task
 To identify trends in historical bike trip and understand how annual members as well as casual riders use cyclistic.
 
@@ -24,4 +26,13 @@ To identify trends in historical bike trip and understand how annual members as 
 - Lily Moreno: The director of marketing
 - Cyclistic executive team
 
+# Step 2: Preparing And Collecting Of Data
+I used Cyclistic's historical data to analyze and identify trends.The data has been made available by Motivate International Inc. under this
+[License](https://divvybikes.com/data-license-agreement). The datasets are available[here](https://divvy-tripdata.s3.amazonaws.com/index.html). 
 
+# Tasks
+1. Identify how the data is organized?
+   There are 13 columns in the file. Some of the csv files did not start_station_name, start_station_id, end_station_name, end_station_id columns and will not have empty values.
+   There are two types of members: member or casual. There are three types of bikes: electrical, dock and classic. The ids that were provided have alphabet and numbers that are
+   12 characters long. The started_at and ended_at columns has date time that is formatted as YYYY-MM-DD HH:MM:SS.
+3. Sort and filter the data
