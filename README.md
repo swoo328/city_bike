@@ -98,6 +98,17 @@ Duration of the bike ride and ride distance in km
 
 ![image](https://github.com/swoo328/city_bike/assets/31424334/590f8443-51de-4097-b8c9-6d3338c71f2b)
 
+Remove bike trips that are one min or less
+Remove trips that are 0 distance or lower
+
+![image](https://github.com/swoo328/city_bike/assets/31424334/e4648f35-a312-4526-aabe-6bf6c7cf5218)
+
+Bike Summary 
+
+![image](https://github.com/swoo328/city_bike/assets/31424334/9475a4ce-57bd-41bb-a40f-0769ea1c6472)
+
+
+
 
 
 
