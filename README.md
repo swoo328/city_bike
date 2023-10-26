@@ -54,3 +54,21 @@ Load the Dataset
 
 ![image](https://github.com/swoo328/city_bike/assets/31424334/8d4f72f6-b112-4c55-8f42-98474dc9a7ba)
 
+View the Dataset
+
+![image](https://github.com/swoo328/city_bike/assets/31424334/5d32f162-0c37-4a87-9c1d-39d1dd1adc4e)
+
+Check the data type and format
+
+![image](https://github.com/swoo328/city_bike/assets/31424334/638f0631-c5e2-481d-bcbf-f8b7927d77f2)
+
+![image](https://github.com/swoo328/city_bike/assets/31424334/87155cba-26c3-4db8-b5a9-aa1ac03ed994)
+
+![image](https://github.com/swoo328/city_bike/assets/31424334/52a59489-6e50-4ce7-99e7-2ac2c0580d41)
+
+
+
+
+
+
+
