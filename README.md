@@ -70,6 +70,20 @@ Checking the datatypes of the dataset
 
 ![image](https://github.com/swoo328/city_bike/assets/31424334/99b48ae6-6de6-4c09-a7c8-f8777e079518)
 
+Check if there's null values
+
+![image](https://github.com/swoo328/city_bike/assets/31424334/01603ba1-5f19-451d-ac08-fa86848b1272)
+
+Check for duplicated data
+
+![image](https://github.com/swoo328/city_bike/assets/31424334/ebfd8b27-e1a5-4db7-80e2-b133ce600a75)
+
+Check if there's any missing values and check if the dataset have any NA values
+
+![image](https://github.com/swoo328/city_bike/assets/31424334/79d6a339-9ae3-4bdd-a73e-c5bb3ee242cf)
+
+
+
 
 
 
