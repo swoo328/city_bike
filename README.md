@@ -90,11 +90,11 @@ Rename Column
 
 ![image](https://github.com/swoo328/city_bike/assets/31424334/feda773d-ff13-42c5-a954-07d261432a27)
 
-Duration of the bike ride
+Create Date Field
 
 ![image](https://github.com/swoo328/city_bike/assets/31424334/a10a4288-bde9-445a-a5b5-e81f27e1db89)
 
-Ride distance in km
+Duration of the bike ride and ride distance in km 
 
 ![image](https://github.com/swoo328/city_bike/assets/31424334/590f8443-51de-4097-b8c9-6d3338c71f2b)
 
