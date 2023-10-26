@@ -47,8 +47,10 @@ R: To Process, clean data, analyze and visualize data
 
 The following code chunks were used during the cleaning process:
 First, load packages
+
 ![image](https://github.com/swoo328/city_bike/assets/31424334/c9fcc4d6-b10d-4078-b337-35501bf19803)
 
 Load the Dataset 
+
 ![image](https://github.com/swoo328/city_bike/assets/31424334/8d4f72f6-b112-4c55-8f42-98474dc9a7ba)
 
