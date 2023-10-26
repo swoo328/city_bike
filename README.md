@@ -82,6 +82,17 @@ Check if there's any missing values and check if the dataset have any NA values
 
 ![image](https://github.com/swoo328/city_bike/assets/31424334/79d6a339-9ae3-4bdd-a73e-c5bb3ee242cf)
 
+Convert character to Data/Time
+
+![image](https://github.com/swoo328/city_bike/assets/31424334/02006263-3ad8-4468-88f2-37fa43da9625)
+
+Rename Column
+
+![image](https://github.com/swoo328/city_bike/assets/31424334/feda773d-ff13-42c5-a954-07d261432a27)
+
+![image](https://github.com/swoo328/city_bike/assets/31424334/a10a4288-bde9-445a-a5b5-e81f27e1db89)
+
+![image](https://github.com/swoo328/city_bike/assets/31424334/590f8443-51de-4097-b8c9-6d3338c71f2b)
 
 
 
