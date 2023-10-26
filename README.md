@@ -35,4 +35,16 @@ I used Cyclistic's historical data to analyze and identify trends.The data has b
    There are 13 columns in the file. Some of the csv files did not start_station_name, start_station_id, end_station_name, end_station_id columns and will not have empty values.
    There are two types of members: member or casual. There are three types of bikes: electrical, dock and classic. The ids that were provided have alphabet and numbers that are
    12 characters long. The started_at and ended_at columns has date time that is formatted as YYYY-MM-DD HH:MM:SS.
-3. Sort and filter the data
+2. Sort and filter the data
+
+# Step 3: Process and Cleaning the Data for Analysis
+Tools Used
+R: To Process, clean data, analyze and visualize data
+# Tasks
+1. Check the data for errors. Check the data for its data structure type and format it throughout the cleaning and manipulation process
+2. Transform the data
+3. Document the cleaning process
+
+The following code chunks were used during the cleaning process:
+First, load packages
+![image](https://github.com/swoo328/city_bike/assets/31424334/e2ddf503-2e0a-4702-9d7f-d017bd74aed7)
