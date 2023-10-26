@@ -60,11 +60,13 @@ View the Dataset
 
 Check the data type and format
 
+Column Names
 ![image](https://github.com/swoo328/city_bike/assets/31424334/638f0631-c5e2-481d-bcbf-f8b7927d77f2)
 
-![image](https://github.com/swoo328/city_bike/assets/31424334/87155cba-26c3-4db8-b5a9-aa1ac03ed994)
-
+Checking the datatypes of the dataset
 ![image](https://github.com/swoo328/city_bike/assets/31424334/52a59489-6e50-4ce7-99e7-2ac2c0580d41)
+
+![image](https://github.com/swoo328/city_bike/assets/31424334/87155cba-26c3-4db8-b5a9-aa1ac03ed994)
 
 
 
